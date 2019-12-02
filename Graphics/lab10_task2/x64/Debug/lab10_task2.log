@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\User\Desktop\OpenGl-master\Graphics\lab10_task2\main.cpp(60,13): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGl-master\Graphics\lab10_task2\main.cpp(61,13): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGl-master\Graphics\lab10_task2\main.cpp(62,13): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGl-master\Graphics\lab10_task2\main.cpp(75,72): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGl-master\Graphics\lab10_task2\main.cpp(75,47): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGl-master\Graphics\lab10_task2\main.cpp(86,52): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGl-master\Graphics\lab10_task2\main.cpp(86,62): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\User\Desktop\OpenGl-master\Graphics\lab10_task2\main.cpp(88,30): warning C4305: аргумент: усечение из "double" в "GLfloat"
+  lab10_task2.vcxproj -> C:\Users\User\Desktop\OpenGl-master\Graphics\x64\Debug\lab10_task2.exe
